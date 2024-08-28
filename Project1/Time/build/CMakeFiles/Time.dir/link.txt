@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Time.dir/src/main.c.o CMakeFiles/Time.dir/src/gettime.c.o CMakeFiles/Time.dir/src/printtime.c.o -o Time 

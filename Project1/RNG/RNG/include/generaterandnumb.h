@@ -1,0 +1,5 @@
+#ifndef GENERATERANDNUMB_H
+#define GENERATERANDNUMB_H
+#define MAX_NUMBER 100
+int GenerateRandNumb();
+#endif  // GENERATERANDNUMB_H

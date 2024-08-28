@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/random_number.dir/src/main.c.o CMakeFiles/random_number.dir/src/generaterandnumb.c.o CMakeFiles/random_number.dir/src/getuserguess.c.o CMakeFiles/random_number.dir/src/verifyguess.c.o -o random_number 
